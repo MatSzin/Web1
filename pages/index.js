@@ -11,8 +11,8 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to the definitive AI for your Never Have I Ever Questionset" />
-        <p className="description">
+        <Header title="Never Have I Ever AI" />
+        <p className="Welcome to the definitive AI for your Never Have I Ever Questionset">
           Get started by editing <code>pages/index.js</code>
         </p>
       </main>
